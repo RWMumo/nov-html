@@ -14,3 +14,12 @@ body{ background-color: darkturquoise;
     font-size: medium;
 
 }
+
+.thing{
+    padding: 30px;
+    padding-right: 0ch;
+    border: darkviolet;
+    background-color: floralwhite;
+    border-color: darkviolet;
+    font-style: italic;
+}
